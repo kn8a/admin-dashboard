@@ -9,7 +9,7 @@ body, h1, h3, p, h2, h4, h5{
     display: grid;
     grid-template-columns: minmax(200px,300px) 3fr 1fr;
     grid-template-rows: auto 1fr;
-    height: 100vh;
+    height: 100vh;  
 }
 
 .dashboard {
@@ -31,9 +31,7 @@ body, h1, h3, p, h2, h4, h5{
 
 .main, .projects-sidebar {
     background-color: rgb(223, 232, 236);
-    display: grid;
-
-    
+    display: grid; 
 }
 
 .sidebar-links {
@@ -116,13 +114,11 @@ button:hover {
 
 .announce-items {
     display: grid;
-
 }
 
 .trends {
     display: grid;
     row-gap: 1.5vh;
-
 }
 
 .trend {
@@ -148,9 +144,7 @@ button:hover {
 .projects {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-
     gap: 2vh;
-    
 }
 
 .card {
