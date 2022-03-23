@@ -13,7 +13,7 @@ body, h1, h3, p, h2, h4, h5{
 }
 
 .dashboard {
-    background-color: rgb(34, 34, 34);
+    background-color: darkslategrey;
     color: white;
     display: grid;
     grid-column: 1 / 2;
