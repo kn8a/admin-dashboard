@@ -172,6 +172,10 @@ button:hover {
     justify-content: end;
 }
 
+img {
+    cursor: pointer;
+}
+
 hr{
     margin-top: 1vh;
     margin-bottom: 1vh;
