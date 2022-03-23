@@ -121,7 +121,7 @@ button:hover {
 
 .trends {
     display: grid;
-    row-gap: 2vh;
+    row-gap: 1.5vh;
 
 }
 
@@ -170,4 +170,12 @@ button:hover {
     grid-template-columns: auto auto auto;
     gap: 2vw;
     justify-content: end;
+}
+
+hr{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border: 0;
+    border-top: 1px solid darkcyan;
+    width: 80%;
 }
